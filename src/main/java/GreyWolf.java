@@ -1,4 +1,4 @@
-public class GreyWolf extends Canis {
+public sealed class GreyWolf extends Canis permits Dog {
 
   private final int x = getInitialValue();
 
