@@ -1,4 +1,4 @@
-# {Project Name}
+# Animals
 
 ## Repository
 
@@ -6,11 +6,11 @@ This repository holds Java and Kotlin code written in full or partial completion
 
 ## Project summary
 
-{Project summary}
+Use animal species to illustrate inheritance and polymorphism in Java and Kotlin.
 
 ## Credits, copyrights, and license information
 
-Java and Kotlin source code written by Nicholas Bennett and {learner(s)}.
+Java and Kotlin source code written by Nicholas Bennett, Chris Hughes, and Jazzmine Scott.
 
 Build scripts, workflow definitions, and instructional content written by Nicholas Bennett.
 
